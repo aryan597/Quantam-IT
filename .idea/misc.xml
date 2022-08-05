@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Studio Projects/Test2/app/src/main/res/drawable/gradient.xml" value="0.183" />
+        <entry key="..\:/Android Studio Projects/Test2/app/src/main/res/layout/activity_detailed.xml" value="0.17447916666666666" />
+        <entry key="..\:/Android Studio Projects/Test2/app/src/main/res/layout/activity_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android Studio Projects/Test2/app/src/main/res/layout/items.xml" value="0.17552083333333332" />
         <entry key="..\:/Test2/app/src/main/res/drawable/btn_background.xml" value="0.164" />
         <entry key="..\:/Test2/app/src/main/res/drawable/tab_indicator.xml" value="0.164" />
         <entry key="..\:/Test2/app/src/main/res/drawable/tab_layout_background.xml" value="0.164" />
